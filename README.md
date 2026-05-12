@@ -1,21 +1,239 @@
+<!-- ====================================================== -->
+<!--                      BANNER                             -->
+<!-- ====================================================== -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ThNah16) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Thanh%20Nguyen&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20•%20Mobile%20Developer%20•%20Game%20Dev&descAlign=50&descAlignY=60"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thanh-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thanh-16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thanh-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ====================================================== -->
+<!--                    TYPING EFFECT                        -->
+<!-- ====================================================== -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thanh-16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Thanh;Fullstack+Developer;Mobile+Developer;Backend+Engineer;Game+Development+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ====================================================== -->
+<!--                    SOCIAL BADGES                        -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <a href="https://www.facebook.com/ThNah16">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/thanh-16">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanh-16&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=thanh-16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```yaml
+name: Thanh Nguyen
+located_in: Vietnam
+current_focus:
+  - Fullstack Development
+  - Mobile Apps
+  - Backend Systems
+  - Game Development
+
+education:
+  - FPT University
+
+currently_learning:
+  - Cloud Architecture
+  - System Design
+  - Unity & Godot
+
+interests:
+  - Web Development
+  - Mobile Development
+  - UI/UX
+  - Indie Games
+  - AI Tools
+
+goal:
+  - Become a Professional Software Engineer
+```
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🚀 Languages
+<img src="https://skillicons.dev/icons?i=c,cs,java,js,dart,html,css" />
+
+---
+
+## ⚙️ Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,bootstrap,firebase" />
+
+---
+
+## ☁️ Cloud & Hosting
+<img src="https://skillicons.dev/icons?i=aws,vercel" />
+
+---
+
+## 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira,vscode" />
+
+---
+
+## 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=unity,godot" />
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🛒 E-Commerce Website
+Fullstack e-commerce platform using:
+
+- ASP.NET Core
+- SQL Server
+- JWT Authentication
+- Bootstrap
+
+🔗 Add your repo link here
+
+</td>
+
+<td width="50%">
+
+## 📱 Mobile Task App
+Task management application built with:
+
+- React Native / Flutter
+- Firebase
+- Realtime Database
+
+🔗 Add your repo link here
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎮 Indie Game Project
+2D Game project developed using:
+
+- Unity / Godot
+- C#
+- Game Physics
+
+🔗 Add your repo link here
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+Personal portfolio website with:
+
+- HTML/CSS/JS
+- Responsive UI
+- Dark Mode
+
+🔗 Add your repo link here
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanh-16&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-16&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thanh-16&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thanh-16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanh-16&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thanh-16/thanh-16/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🎵 Coding Mood
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const thanh = {
+  code: ["C#", "Java", "JavaScript", "Dart"],
+  technologies: {
+    backend: [".NET", "Node.js"],
+    mobile: ["React Native", "Flutter"],
+    cloud: ["AWS", "Firebase"],
+    gameDev: ["Unity", "Godot"]
+  },
+  
+  currentGoal: "Become a great software engineer 🚀"
+};
+```
+
+---
+
+# 🌟 Support Me
+
+<p align="center">
+  <a href="https://github.com/thanh-16">
+    <img src="https://img.shields.io/badge/⭐_Follow_Me_On_GitHub-121011?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
