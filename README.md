@@ -1,9 +1,9 @@
 <!-- ====================================================== -->
-<!--                      BANNER                             -->
+<!--                        HEADER                           -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Thanh%20Nguyen&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20•%20Mobile%20Developer%20•%20Game%20Dev&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Nguyễn%20Quang%20Thành&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20•%20Backend%20Engineer%20•%20Fullstack%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
 <!-- ====================================================== -->
@@ -11,120 +11,139 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Thanh;Fullstack+Developer;Mobile+Developer;Backend+Engineer;Game+Development+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Nguyễn+Quang+Thành;Passionate+.NET+Developer;Backend+Engineer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <!-- ====================================================== -->
-<!--                    SOCIAL BADGES                        -->
+<!--                      SOCIALS                            -->
 <!-- ====================================================== -->
 
 <p align="center">
   <a href="https://www.facebook.com/ThNah16">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  
+
   <a href="https://github.com/thanh-16">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanh-16&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thanh-16&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```yaml
-name: Thanh Nguyen
-located_in: Vietnam
-current_focus:
-  - Fullstack Development
-  - Mobile Apps
-  - Backend Systems
-  - Game Development
+```csharp
+public class Developer
+{
+    public string Name => "Nguyễn Quang Thành";
 
-education:
-  - FPT University
+    public string Role => ".NET Developer";
 
-currently_learning:
-  - Cloud Architecture
-  - System Design
-  - Unity & Godot
+    public string[] MainSkills =>
+    [
+        "ASP.NET Core",
+        "C#",
+        ".NET",
+        "SQL Server",
+        "REST API",
+        "Entity Framework"
+    ];
 
-interests:
-  - Web Development
-  - Mobile Development
-  - UI/UX
-  - Indie Games
-  - AI Tools
+    public string[] Interests =>
+    [
+        "Backend Development",
+        "System Design",
+        "Cloud Computing",
+        "Mobile Development",
+        "Game Development"
+    ];
 
-goal:
-  - Become a Professional Software Engineer
+    public string CurrentGoal =>
+        "Become a professional Backend Engineer 🚀";
+}
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-## 🚀 Languages
-<img src="https://skillicons.dev/icons?i=c,cs,java,js,dart,html,css" />
+## 👨‍💻 Main Backend Stack
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postman" />
 
----
+<br><br>
 
-## ⚙️ Frameworks & Technologies
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,bootstrap,firebase" />
+## 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
----
+<br><br>
+
+## 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=dart,firebase" />
+
+<br><br>
 
 ## ☁️ Cloud & Hosting
-<img src="https://skillicons.dev/icons?i=aws,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,vercel" />
 
----
+<br><br>
 
-## 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira,vscode" />
+## 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,jira,vscode" />
 
----
+<br><br>
 
-## 🎮 Game Development
+## 🎮 Exploring
 <img src="https://skillicons.dev/icons?i=unity,godot" />
 
 </div>
 
 ---
 
-# 📂 Featured Projects
+# 🔥 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🛒 E-Commerce Website
-Fullstack e-commerce platform using:
+## 🛒 E-Commerce Backend API
 
-- ASP.NET Core
+### Technologies:
+- ASP.NET Core Web API
+- Entity Framework Core
 - SQL Server
 - JWT Authentication
-- Bootstrap
+- Clean Architecture
 
-🔗 Add your repo link here
+### Features:
+✔ Authentication & Authorization  
+✔ Product Management  
+✔ Order Processing  
+✔ RESTful API Design  
+
+🔗 Add your repository link here
 
 </td>
 
 <td width="50%">
 
-## 📱 Mobile Task App
-Task management application built with:
+## 📱 Mobile Task Management App
 
-- React Native / Flutter
+### Technologies:
+- Flutter / React Native
 - Firebase
-- Realtime Database
+- Cloud Firestore
 
-🔗 Add your repo link here
+### Features:
+✔ Realtime Sync  
+✔ Authentication  
+✔ Responsive UI  
+✔ Push Notifications  
+
+🔗 Add your repository link here
 
 </td>
 </tr>
@@ -133,26 +152,36 @@ Task management application built with:
 <td width="50%">
 
 ## 🎮 Indie Game Project
-2D Game project developed using:
 
-- Unity / Godot
+### Technologies:
+- Unity
 - C#
-- Game Physics
+- Physics System
 
-🔗 Add your repo link here
+### Features:
+✔ Character Controller  
+✔ Combat System  
+✔ Game UI  
+
+🔗 Add your repository link here
 
 </td>
 
 <td width="50%">
 
-## 🌐 Portfolio Website
-Personal portfolio website with:
+## 🌐 Personal Portfolio Website
 
-- HTML/CSS/JS
-- Responsive UI
-- Dark Mode
+### Technologies:
+- HTML/CSS/JavaScript
+- Bootstrap
+- Responsive Design
 
-🔗 Add your repo link here
+### Features:
+✔ Dark Mode  
+✔ Modern UI  
+✔ Mobile Friendly  
+
+🔗 Add your repository link here
 
 </td>
 </tr>
@@ -163,21 +192,13 @@ Personal portfolio website with:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanh-16&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanh-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-16&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thanh-16&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanh-16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 ---
@@ -190,15 +211,59 @@ Personal portfolio website with:
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thanh-16/thanh-16/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thanh-16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-# 🎵 Coding Mood
+# 🧠 Currently Learning
+
+```yaml
+Backend Architecture:
+  - Clean Architecture
+  - Microservices
+  - CQRS Pattern
+
+Cloud:
+  - AWS
+  - Docker
+  - CI/CD
+
+Game Development:
+  - Unity
+  - Game Physics
+```
+
+---
+
+# ⚡ Fun Fact
+
+```csharp
+while(alive)
+{
+    Eat();
+    Sleep();
+    Code();
+    Repeat();
+}
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Improve Backend Development Skills
+- ✅ Build More Real Projects
+- 🔄 Learn Advanced .NET Architecture
+- 🔄 Explore Cloud & DevOps
+- 🔄 Contribute Open Source Projects
+
+---
+
+# 🌟 Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -206,34 +271,24 @@ Personal portfolio website with:
 
 ---
 
-# ⚡ Fun Fact
-
-```javascript
-const thanh = {
-  code: ["C#", "Java", "JavaScript", "Dart"],
-  technologies: {
-    backend: [".NET", "Node.js"],
-    mobile: ["React Native", "Flutter"],
-    cloud: ["AWS", "Firebase"],
-    gameDev: ["Unity", "Godot"]
-  },
-  
-  currentGoal: "Become a great software engineer 🚀"
-};
-```
-
----
-
-# 🌟 Support Me
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/thanh-16">
-    <img src="https://img.shields.io/badge/⭐_Follow_Me_On_GitHub-121011?style=for-the-badge&logo=github"/>
+  <a href="https://www.facebook.com/ThNah16">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  💙 Thanks for visiting my profile 💙
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
